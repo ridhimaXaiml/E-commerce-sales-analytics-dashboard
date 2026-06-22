@@ -25,8 +25,6 @@ The goal of this project is to analyze sales data, identify business trends, and
 
 ## Tools & Technologies
 - Microsoft Power BI
-- Power Query
-- DAX
 - Data Visualization
 - Business Intelligence
 
@@ -35,9 +33,5 @@ The goal of this project is to analyze sales data, identify business trends, and
 - Identified high-performing products and regions
 - Converted raw data into meaningful business insights
 - Improved understanding of data-driven decision making
-
-## Screenshots
-E-commerce sales dashboard.png
-
 ## Author
 Ridhima Singh
